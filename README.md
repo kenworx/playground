@@ -1,1 +1,1 @@
-# HTML/CSS/PHP/SQL Playground
+# HTML/CSS/JS/PHP/SQL Playground
