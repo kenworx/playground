@@ -11,6 +11,8 @@
 **Cheatsheet(s)**
 
 * [HTML/CSS/JS/PHP Cheatsheet](https://htmlcheatsheet.com/)
+* [HTML Table](https://htmltable.com/)
+* [DIV Table](https://divtable.com/)
 
 </br>
 </br>
