@@ -2,8 +2,9 @@
 
 ## Resources
 
-* [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-* [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+* [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE)
+* [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;[Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 </br>
 </br>
