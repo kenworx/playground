@@ -4,10 +4,7 @@
 
 * [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI)
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;[Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA)
+- [Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 </br>
 </br>
